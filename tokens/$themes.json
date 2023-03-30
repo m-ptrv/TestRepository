@@ -1,0 +1,67 @@
+[
+  {
+    "id": "89f1bc1cf62c86369f2f2e3ffdc46f9699c8991e",
+    "name": "blazor-default-light",
+    "selectedTokenSets": {
+      "base/palettes/devexpress": "enabled",
+      "base/semantic/blue": "enabled",
+      "base/tokens": "source",
+      "blazor/default/core": "source",
+      "blazor/default/light": "enabled",
+      "base/font-family/ubuntu": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4064d37ecaa117caf72b8c58a2b7e08f677461be",
+    "name": "blazor-blazing-berry-light",
+    "selectedTokenSets": {
+      "base/font-family/ubuntu": "enabled",
+      "base/palettes/devexpress": "enabled",
+      "base/semantic/purple": "enabled",
+      "base/tokens": "source",
+      "blazor/blazing-berry/core": "source",
+      "blazor/blazing-berry/light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "9c8b15f4b2492b6e6272b37f4402a993c0e758c5",
+    "name": "blazor-blazing-dark-dark",
+    "selectedTokenSets": {
+      "base/font-family/ubuntu": "enabled",
+      "base/palettes/devexpress": "enabled",
+      "base/semantic/purple": "enabled",
+      "base/tokens": "source",
+      "blazor/blazing-dark/core": "source",
+      "blazor/blazing-dark/dark": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "bbf60f0ffd9872db1e196f7837450adf8ab5e568",
+    "name": "blazor-purple-light",
+    "selectedTokenSets": {
+      "base/font-family/ubuntu": "enabled",
+      "base/palettes/devexpress": "enabled",
+      "base/semantic/purple": "enabled",
+      "base/tokens": "source",
+      "blazor/purple/core": "source",
+      "blazor/purple/light": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "6d30c5ab5ca3fc5906ef101c66b679a5c00cbeaf",
+    "name": "blazor-office-white-light",
+    "selectedTokenSets": {
+      "base/font-family/ubuntu": "enabled",
+      "base/palettes/devexpress": "enabled",
+      "base/tokens": "source",
+      "blazor/office-white/core": "source",
+      "blazor/office-white/light": "enabled",
+      "base/semantic/orange": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]

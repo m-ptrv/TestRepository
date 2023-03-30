@@ -1,0 +1,12 @@
+{
+  "sans-serif": {
+    "value": "SF Pro Text",
+    "type": "fontFamilies",
+    "description": "Default for Apple devices"
+  },
+  "mono": {
+    "value": "SF Mono",
+    "type": "fontFamilies",
+    "description": "Default for Apple devices"
+  }
+}

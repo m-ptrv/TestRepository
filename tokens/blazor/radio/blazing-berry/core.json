@@ -1,0 +1,582 @@
+{
+    "composition": {
+        "radio": {
+            "primary": {
+              "right": {
+                "small": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.1,5}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "medium": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.2}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "large": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.2,5}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0,5}",
+                      "horizontalPadding": "{size.0,5}"
+                    },
+                    "type": "composition"
+                  }
+                }
+              },
+              "left": {
+                "small": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.1,5}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "medium": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.2}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "large": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.2,5}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0,5}",
+                      "horizontalPadding": "{size.0,5}"
+                    },
+                    "type": "composition"
+                  }
+                }
+              }
+            },
+            "success": {
+              "right": {
+                "small": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.1,5}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "medium": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.2}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "large": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.2,5}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0,5}",
+                      "horizontalPadding": "{size.0,5}"
+                    },
+                    "type": "composition"
+                  }
+                }
+              },
+              "left": {
+                "small": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.1,5}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "medium": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.2}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "large": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.2,5}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0,5}",
+                      "horizontalPadding": "{size.0,5}"
+                    },
+                    "type": "composition"
+                  }
+                }
+              }
+            },
+            "danger": {
+              "right": {
+                "small": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.1,5}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "medium": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.2}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "large": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.2,5}",
+                      "paddingRight": "{size.0}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0,5}",
+                      "horizontalPadding": "{size.0,5}"
+                    },
+                    "type": "composition"
+                  }
+                }
+              },
+              "left": {
+                "small": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.1,5}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "medium": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.2}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0}",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  }
+                },
+                "large": {
+                  "group": {
+                    "value": {
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "text-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "paddingLeft": "{size.0}",
+                      "paddingRight": "{size.2,5}",
+                      "itemSpacing": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "inner-box": {
+                    "value": {
+                      "verticalPadding": "{size.2,5}/2",
+                      "horizontalPadding": "{size.0}"
+                    },
+                    "type": "composition"
+                  },
+                  "input-box": {
+                    "value": {
+                      "verticalPadding": "{size.0,5}",
+                      "horizontalPadding": "{size.0,5}"
+                    },
+                    "type": "composition"
+                  }
+                }
+              }
+            }
+          }
+    }
+}

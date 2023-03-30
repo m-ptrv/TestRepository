@@ -1,0 +1,12 @@
+{
+  "sans-serif": {
+    "value": "Roboto",
+    "type": "fontFamilies",
+    "description": "Default for Android devices"
+  },
+  "mono": {
+    "value": "Roboto Mono",
+    "type": "fontFamilies",
+    "description": "Default for Android devices"
+  }
+}

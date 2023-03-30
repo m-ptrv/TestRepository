@@ -1,0 +1,12 @@
+{
+  "sans-serif": {
+    "value": "Ubuntu",
+    "type": "fontFamilies",
+    "description": "Default for OS Ubuntu"
+  },
+  "mono": {
+    "value": "Ubuntu Mono",
+    "type": "fontFamilies",
+    "description": "Default for OS Ubuntu"
+  }
+}

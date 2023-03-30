@@ -1,0 +1,12 @@
+{
+  "sans-serif": {
+    "value": "Segoe UI",
+    "type": "fontFamilies",
+    "description": "Default for Microsoft OS"
+  },
+  "mono": {
+    "value": "Consolas",
+    "type": "fontFamilies",
+    "description": "Default for Microsoft OS"
+  }
+}
