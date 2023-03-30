@@ -786,7 +786,8 @@
                 "type": "composition"
               }
             }
-          }
+          },
+          "something": "123"
         }
     }
 }
